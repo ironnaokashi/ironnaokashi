@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ironnaokashi
+- 👀 I’m interested in web application development.
+- 🌱 I’m currently learning JavaScript and React.
